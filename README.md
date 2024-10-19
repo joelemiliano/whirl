@@ -7,6 +7,10 @@ An HTML framework to make doing your and I stuff faster
 ## How to add Whirl to your HTML
 Put one of these on your ``<head>``
 
-`<link href="https://raw.githubusercontent.com/joelemiliano/whirl/refs/heads/main/whirl.js" rel="stylesheet" crossorigin="anonymous">`
+```html
+<link href="https://raw.githubusercontent.com/joelemiliano/whirl/refs/heads/main/whirl.js" rel="stylesheet" crossorigin="anonymous">
+```
 
-`<script src="https://raw.githubusercontent.com/joelemiliano/whirl/refs/heads/main/whirl.js" crossorigin="anonymous"></script>`
+```html
+<script src="https://raw.githubusercontent.com/joelemiliano/whirl/refs/heads/main/whirl.js" crossorigin="anonymous"></script>
+```
